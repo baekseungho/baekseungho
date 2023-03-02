@@ -17,7 +17,7 @@
 ### 💻Tools
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=whitle"/> <img src="https://img.shields.io/badge/VisualstudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=whitle"/>
 
-### 👋Hi there 
+### 👋Hi there, I'm SeungHo 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbaekseungho%2Fhit-counter&count_bg=%23848484&title_bg=%23333333&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=true"/></a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baekseungho&layout=compact&theme=tokyonight) <br>  
