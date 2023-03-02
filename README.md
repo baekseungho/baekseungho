@@ -1,4 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=SeungHo%20Baek&fontColor=fff&fontSize=90)
+
+
+
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=SeungHo%20Baek&fontColor=fff&fontSize=80)  
 
 ### ☁SNS
 <a href="https://www.instagram.com/baek_seungho_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
@@ -13,8 +18,12 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=whitle"/> <img src="https://img.shields.io/badge/VisualstudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=whitle"/>
 
 ### 👋Hi there 
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbaekseungho%2Fhit-counter&count_bg=%23848484&title_bg=%23333333&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=true"/></a>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baekseungho&layout=compact&theme=tokyonight) <br>  
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=baekseungho&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baekseungho&layout=compact&theme=tokyonight)
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbaekseungho%2Fhit-counter&count_bg=%23848484&title_bg=%23333333&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=true"/></a>
+
+
+</div>
