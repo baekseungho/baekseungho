@@ -16,4 +16,4 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=baekseungho&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baekseungho&layout=compact&theme=tokyonight)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/gjbae1212/hit-counter.com%2Fgjbae1212%2Fhit-counter&count_bg=%23848484&title_bg=%23333333&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbaekseungho&count_bg=%23848484&title_bg=%23333333&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=true)](https://hits.seeyoufarm.com)
