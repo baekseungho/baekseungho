@@ -24,6 +24,6 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=baekseungho&show_icons=true&theme=tokyonight)
 
-
+<br/><img width="95%" src="https://github-profile-trophy.vercel.app/?username=baekseungho&row=1">
 
 </div>
